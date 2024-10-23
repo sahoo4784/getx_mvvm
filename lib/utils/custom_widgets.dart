@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:getx_mvvm/utils/text_styles.dart';
 

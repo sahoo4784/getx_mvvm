@@ -32,6 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
               builder: (context, state) {
                 return Text(
                   state.counter.toString(),
+                  textAlign: TextAlign.center,
                   style: Theme.of(context).textTheme.headlineMedium,
                 );
               },
